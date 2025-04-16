@@ -1,0 +1,8 @@
+﻿  GamyltonovCycle.cpp
+C:\Users\user\source\repos\GamyltonovCycle\GamyltonovCycle\GamyltonovCycle.cpp(72,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\GamyltonovCycle\GamyltonovCycle\GamyltonovCycle.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\GamyltonovCycle\GamyltonovCycle\GamyltonovCycle.cpp(90,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\GamyltonovCycle\GamyltonovCycle\GamyltonovCycle.cpp(93,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\GamyltonovCycle\GamyltonovCycle\GamyltonovCycle.cpp(101,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\GamyltonovCycle\GamyltonovCycle\GamyltonovCycle.cpp(115,27): warning C4018: <=: несоответствие типов со знаком и без знака
+  GamyltonovCycle.vcxproj -> C:\Users\user\source\repos\GamyltonovCycle\x64\Debug\GamyltonovCycle.exe
